@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: mailsrv6.dondominio.com
+mx: mx01.dondominio.com
 mx: polonez-co-uk.mail.eo.outlook.com
 max_age: 604800
